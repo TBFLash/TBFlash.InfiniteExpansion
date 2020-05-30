@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimAirport Script Mod", "SimAirport Script Mod.csproj", "{4D4807EC-B1E0-4B29-8800-6156CE9700DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBFlash.InfiniteExpansion", "TBFlash.InfiniteExpansion.csproj", "{4D4807EC-B1E0-4B29-8800-6156CE9700DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
